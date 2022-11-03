@@ -1,0 +1,63 @@
+body{
+    background-image: url(https://i1.wp.com/mercadoeconsumo.com.br/wp-content/uploads/2019/04/Que-comida-saud%C3%A1vel-que-nada-brasileiro-gosta-de-fast-food.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.titulo-1{
+    color: blueviolet;
+    font-size: 100px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.button-1{
+    color:rgb(76, 108, 115);
+    font-size: 40px;
+    font-family: fantasy;
+    font-variant: small-caps;
+}
+.bodynew{
+    background-image: url(https://top10cairo.com/wp-content/uploads/2015/12/best-burger-restaurant-places-in-cairo-696x365.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+.button-2{
+    color:rgb(76, 108, 115);
+    font-size: 40px;
+    font-family: fantasy;
+    font-variant: small-caps;
+}
+.titulo-2{
+    color: rgb(83, 30, 133);
+    font-size: 100px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.contenido-1{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.contenido-2{
+    color: rgb(36, 29, 29);
+    font-size: 50px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+.parrafo{
+    color: rgb(113, 113, 134);
+    background-color: rgb(212, 220, 228);
+    font-size: 60px;
+    font-weight: 400;
+    font-family: fantasy;
+    font-variant: inherit;
+}
+tr{
+    color: rgb(26, 25, 25);
+}
